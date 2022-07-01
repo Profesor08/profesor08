@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Profesor08&show_icons=true" alt="Profesor08" />
+</p>
+
 <!--
 **Profesor08/profesor08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
