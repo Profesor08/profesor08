@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Oleg!</h1>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Profesor08&show_icons=true" alt="Profesor08" />
